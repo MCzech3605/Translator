@@ -6,3 +6,5 @@ The code in C will be printed on the standard output.
 ## Example
 Example code is avaliable in the file [example.kt](src/main/resources/example.kt) - feel free to copy it and paste into the program. Below there is the result of inserting this file:
 
+
+![example](src/main/resources/Example%20usage.png?raw=true)
